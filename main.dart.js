@@ -35840,7 +35840,7 @@ if(r!=null)r.ac(0)
 s.aw()},
 O(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=A.cW("Fake News Hunter",d,d,d,d,d,d),b=e.CW
 b===$&&A.a()
-b=A.akc(0,new A.jZ(B.iS,d,d,new A.t9(b,B.j0,0.5,0.1,40,A.c([B.hA,B.bb,B.F6,B.pE],t.t_),d),d))
+b=A.akc(0,new A.jZ(B.iS,d,d,new A.t9(b,B.j0,0.5,0.1,10,A.c([B.hA,B.bb,B.F6,B.pE],t.t_),d),d))
 if(!e.z)s=e.a1k()
 else if(J.fn(e.e))s=A.o8(A.Sg(A.c([A.aev(d,d,d,d,d),A.ed(d,20,d),A.cW("Loading news...",d,d,d,d,d,d)],t.E),B.cj,B.ck),d,d)
 else if(e.x)s=A.Sg(A.c([A.cW("Game Over!",d,d,d,A.eg(d,d,B.hA,d,d,d,d,d,d,d,d,32,d,d,B.aV,d,d,!0,d,d,d,d,d,d,d,d),d,d),A.ed(d,20,d),A.cW("Final Score: "+e.f,d,d,d,A.eg(d,d,d,d,d,d,d,d,d,d,d,24,d,d,B.aV,d,d,!0,d,d,d,d,d,d,d,d),d,d),A.ed(d,30,d),A.TQ(A.cW("Play Again",d,d,d,d,d,d),new A.a8t(e),A.TR(d,d,B.bb,d,d,d,d,d,d,d,d,d,new A.b4(40,15,40,15),d,d,d,d,d,d))],t.E),B.cj,B.ck)
