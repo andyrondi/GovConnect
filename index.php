@@ -18,7 +18,7 @@ header("Access-Control-Allow-Origin: cloud.appwrite.io");
       This is a placeholder for base href that will be replaced by the value of
       the `--base-href` argument provided to `flutter build`.
     -->
-    <base href="/~andrea.rondi/web">
+    <base href="/GovConnect/">
 
     <meta charset="UTF-8">
     <meta content="IE=Edge" http-equiv="X-UA-Compatible">
