@@ -44031,7 +44031,7 @@ s===$&&A.a()
 m.push(A.aB3(0,new A.cs(B.ex,p,p,new A.zn(s,B.mr,0.5,0.1,10,A.b([B.at,B.a3,B.LA,B.e_],t.t_),p),p)))
 if(!l.at){s=A.jg(p,p,A.aI(4282338303),p,p,p,8,p,p,p,p,p,new A.ae(60,25,60,25),p,new A.c1(A.c_(50),B.o),p,p,p,p)
 n=A.dJ(B.al,A.b([A.bb(A.jf(A.a3("Start Now",p,p,p,p,A.aZ(p,p,B.f,p,p,p,p,p,p,p,p,26,p,p,B.F,p,p,!0,p,p,p,p,p,p,p,p),p,p,p),new A.app(l),s),p,p)],n),B.q,B.Qr,p)}else if(J.i9(l.w))n=A.ch(A.b([A.cM(p,p,p,p,p),A.a4(p,20,p),A.a3("Loading news...",p,p,p,p,p,p,p,p)],n),B.m,B.bk,B.n)
-else if(l.Q||l.y===J.c2(l.w)-1){s=l.Q?"Game Over!":"There are no more questions\n(please wait for the Game Over screen to save your progress)"
+else if(l.Q||l.y===J.c2(l.w)){s=l.Q?"Game Over!":"There are no more questions\n(please wait for the Game Over screen to save your progress)"
 n=A.ch(A.b([A.a3(s,p,p,p,p,A.aZ(p,p,B.at,p,p,p,p,p,p,p,p,32,p,p,B.F,p,p,!0,p,p,p,p,p,p,p,p),B.b3,p,p),A.a4(p,20,p),A.a3("Final Score: "+l.x,p,p,p,p,A.aZ(p,p,p,p,p,p,p,p,p,p,p,24,p,p,B.F,p,p,!0,p,p,p,p,p,p,p,p),p,p,p),A.a4(p,30,p),A.jf(A.a3("Play Again",p,p,p,p,p,p,p,p),new A.apq(l),A.jg(p,p,B.a3,p,p,p,p,p,p,p,p,p,new A.ae(40,15,40,15),p,p,p,p,p,p))],n),B.m,B.bk,B.n)}else{s=A.a3("Round end",p,p,p,p,A.aZ(p,p,B.U,p,p,p,p,p,p,p,p,16,p,p,B.a7,p,p,!0,p,p,p,p,p,p,p,p),p,p,p)
 r=l.ay
 r===$&&A.a()
@@ -45707,7 +45707,7 @@ case 2:p=b
 o=p.d
 n=t.z
 s=3
-return A.z(q.a.Au(0,"user_profiles",A.ad(["userId",p.a,"username",o,"avatarName","avatar1"],n,n),"default","unique()"),$async$vA)
+return A.z(q.a.Au(0,"user_profiles",A.ad(["userId",p.a,"username",o,"avatarName","default"],n,n),"default","unique()"),$async$vA)
 case 3:return A.J(null,r)}})
 return A.K($async$vA,r)},
 CZ(a,b){return this.atj(a,b)},
